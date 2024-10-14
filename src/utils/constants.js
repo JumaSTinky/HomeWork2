@@ -1,14 +1,13 @@
-import shoe1 from "../assets/shoe1.jpg";
-import shoe2 from "../assets/shoe2.jpg";
-import shoe3 from "../assets/shoe3.jpg";
-import shoe4 from "../assets/shoe4.jpg";
-import shoe5 from "../assets/shoe5.jpg";
-import shoe6 from "../assets/shoe6.jpg";
-import shoe7 from "../assets/shoe7.jpg";
-import shoe8 from "../assets/shoe8.jpg";
-import shoe9 from "../assets/shoe9.jpg";
-import shoe10 from "../assets/shoe10.jpg";
-
+import shoe1 from "../assets/Shoe1.jpg";
+import shoe2 from "../assets/Shoe2.jpg";
+import shoe3 from "../assets/Shoe3.jpg";
+import shoe4 from "../assets/Shoe4.jpg";
+import shoe5 from "../assets/Shoe5.jpg";
+import shoe6 from "../assets/Shoe6.jpg";
+import shoe7 from "../assets/Shoe7.jpg";
+import shoe8 from "../assets/Shoe8.jpg";
+import shoe9 from "../assets/Shoe9.jpg";
+import shoe10 from "../assets/Shoe10.jpg";
 
 export const products = [
   {

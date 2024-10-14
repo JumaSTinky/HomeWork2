@@ -4,7 +4,7 @@ import { products } from "./utils/constants";
 function App() {
   return (
     <>
-      <ShoeItem products={products} />
+      <ShoeItem products={products}  />
     </>
   );
 }
